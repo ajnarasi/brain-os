@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# OS metadata
+.DS_Store
+.Trash/
+Thumbs.db
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Build outputs (Remotion renders are reproducible — keep only the copies in exec-brief/assets/)
+05-prototypes/fiserv-brain-demo/out/
+05-prototypes/fiserv-brain-demo/build/
+05-prototypes/fiserv-brain-demo/.next/
+
+# Vercel local
+.vercel/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage / temp
+coverage/
+.nyc_output/
+*.tmp
