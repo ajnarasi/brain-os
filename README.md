@@ -4,7 +4,7 @@
 
 A side-project pitch to validate whether a per-merchant "second brain" (Karpathy-style durable memory + agents) could be Fiserv's next productized layer above its merchant ecosystem. Demo-ready PM artifact — not an internal roadmap.
 
-**Live deck:** _set after first Vercel deploy_ · **Source:** https://github.com/ajnarasi/brain-os
+**Live deck:** https://brain-os-orcin.vercel.app · **Source:** https://github.com/ajnarasi/brain-os
 
 ---
 
